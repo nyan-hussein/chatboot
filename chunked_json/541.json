@@ -1,0 +1,50 @@
+{
+  "id": "541",
+  "metadata": {
+    "id": 541,
+    "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8104057/",
+    "pmc_id": "PMC8104057"
+  },
+  "chunks": [
+    {
+      "chunk_id": "541_chunk1",
+      "text": "The draft whole-genome sequences (WGS) of 30 fungal strains isolated from the International Space Station and belonging to the Penicillium and Aspergillus genera were assembled. The WGS will allow for detailed genomic characterization to determine the possible applications and importance for space and biotechnological industries. The draft whole-genome sequences (WGS) of 30 fungal strains isolated from the International Space Station and belonging to the Penicillium and Aspergillus genera were assembled. The WGS will allow for detailed genomic characterization to determine the possible applications and importance for space and biotechnological industries. During an ongoing microbial tracking study of the International Space Station (ISS), 30 strains representing"
+    },
+    {
+      "chunk_id": "541_chunk2",
+      "text": "seven species belonging to the Penicillium (n = 5) and Aspergillus (n = 2) genera were isolated (1), and whole-genome sequences (WGS) were generated. The Penicillium genus encompasses more than 350 species found worldwide in soil, vegetation, air, indoor environments, and food (2). Aspergillus species are saprophytes found in a variety of environmental niches; however, some of them are also opportunistic human pathogens (3, 4). Members of the Penicillium and Aspergillus genera are of economic and industrial importance, including Penicillium chrysogenum, which is used to produce β-lactam antibiotics (5), Penicillium camemberti, which is used for maturation of soft cheeses such as Camembert, Brie, and Neufchatel"
+    },
+    {
+      "chunk_id": "541_chunk3",
+      "text": "(6), and Aspergillus niger, which is a known producer of citric acid (7, 8). Recently, Penicillium polonicum has been shown to tolerate and effectively remove lead (Pb) from polluted water, indicating a promising solution for new remediation strategies to purify contaminated water (9). Lastly, Aspergillus unguis, Penicillium dipodomyicola, and Penicillium griseoroseum have been reported to produce novel bioactive compounds (10–13). Considering existing and yet-to-be uncovered, versatile applications of Penicillium and Aspergillus species, characterization of WGS of these fungi is critical. Additionally, since fungi are excellent models for studying evolution and adaptation, due to their experimental features (14), the ISS-isolated species are of unique significance for"
+    },
+    {
+      "chunk_id": "541_chunk4",
+      "text": "investigating how microgravity and irradiation affect them when compared to their ground counterparts. The procedure for collecting samples and performing consecutive processing steps has been described elsewhere (1). Briefly, surface samples were collected with premoistened polyester wipes and then resuspended in 200 ml of sterile phosphate-buffered saline (PBS) with vigorous shaking. The extracted samples were concentrated using InnovaPrep (Drexel, MO) CP-150 concentrating pipettes. Aliquots (100 μl) of each sample were plated onto potato dextrose agar (PDA) containing 100 μg/ml chloramphenicol and incubated at 25°C for 7 days. A single colony was picked, restreaked onto PDA, and incubated at 25°C for 7 days. About 1 μg"
+    },
+    {
+      "chunk_id": "541_chunk5",
+      "text": "of biomass grown overnight was collected and used for DNA extraction with the ZymoBIOMICS DNA MagBead kit (Zymo Corp., Irvine, CA). To acquire the WGS, shotgun libraries were prepared following the Illumina Nextera Flex protocol (15), and paired-end sequencing of 30 strains was performed on a NovaSeq 6000 S4 flow cell paired-end 2 × 150-bp platform. The quality of the raw reads obtained was confirmed with FastQC (v0.11.7) (16). Assessment of the quality filtering steps and adapter removal were performed using fastp (v0.20.0) (17). The cleaned sequences were assembled with SPAdes using the automatic coverage cutoff value (v3.11.1) (18). Assembly quality, number of contigs, N50"
+    },
+    {
+      "chunk_id": "541_chunk6",
+      "text": "values, and genome size were calculated using QUAST (v5.0.2). Default parameters were used for all software. The species were identified based on the internal transcribed spacer (ITS), calmodulin, and β-tubulin sequences extracted from the assembled genomes. The details of the final assemblies and phylogenetic identification are summarized in Table 1. Summary of the draft WGS of 30 Aspergillus and Penicillium strains isolated from the ISS F1, flight 1; F2, flight 2; F3, flight 3; F4, flight 4; F5, flight 5; SG, surface from CRV; SW, surface wipes from ISS environment. F and B at the end are strain numbers. PMM, permanent multipurpose module; WHC, waste"
+    },
+    {
+      "chunk_id": "541_chunk7",
+      "text": "and hygiene compartment; ARED, advanced resistive exercise device; CRV, crew resupply vehicle; LAB, panel near portable water dispenser. The WGS and raw data have been deposited in GenBank under the BioProject accession numbers PRJNA659567 and PRJNA667181. This project has also been deposited in the NASA GeneLab system (https://genelab-data.ndc.nasa.gov/genelab/accession/GLDS-350/). The versions described in this paper are the first versions. Summary of the draft WGS of 30 Aspergillus and Penicillium strains isolated from the ISS F1, flight 1; F2, flight 2; F3, flight 3; F4, flight 4; F5, flight 5; SG, surface from CRV; SW, surface wipes from ISS environment. F and B at the end are"
+    },
+    {
+      "chunk_id": "541_chunk8",
+      "text": "strain numbers. PMM, permanent multipurpose module; WHC, waste and hygiene compartment; ARED, advanced resistive exercise device; CRV, crew resupply vehicle; LAB, panel near portable water dispenser. The WGS and raw data have been deposited in GenBank under the BioProject accession numbers PRJNA659567 and PRJNA667181. This project has also been deposited in the NASA GeneLab system (https://genelab-data.ndc.nasa.gov/genelab/accession/GLDS-350/). The versions described in this paper are the first versions. We thank astronauts Captain Terry Virts and Commander Jeffrey Williams for collecting samples aboard the ISS, the Implementation Team (Fathi Karouia) at NASA Ames Research Center for coordinating this effort for collecting samples from the ISS and CRV, and"
+    },
+    {
+      "chunk_id": "541_chunk9",
+      "text": "Aleksandra Chechinska-Sielaff for isolation of the strains. We thank Ryan Kemp (Zymo Corp.) for extracting the DNA and Dan Butler (Weill Cornell Medicine) for generating the shotgun sequencing. We also thank Anna Simpson for bioinformatic help. The Jet Propulsion Laboratory supercomputing facility staff, notably, Narendra J. (Jimmy) Patel and Edward Villanueva, is acknowledged for continuous support in providing the best possible infrastructure for BIG-DATA analysis. Part of the research described was carried out at the Jet Propulsion Laboratory of the California Institute of Technology under a contract with NASA. This research was funded by 2012 Space Biology NNH12ZTT001N grant 19-12829-26 under task order NNN13D111T awarded"
+    },
+    {
+      "chunk_id": "541_chunk10",
+      "text": "to K.V., which also funded a postdoctoral fellowship for A.B. This section collects any data citations, data availability statements, or supplementary materials included in this article. The WGS and raw data have been deposited in GenBank under the BioProject accession numbers PRJNA659567 and PRJNA667181. This project has also been deposited in the NASA GeneLab system (https://genelab-data.ndc.nasa.gov/genelab/accession/GLDS-350/). The versions described in this paper are the first versions. The WGS and raw data have been deposited in GenBank under the BioProject accession numbers PRJNA659567 and PRJNA667181. This project has also been deposited in the NASA GeneLab system (https://genelab-data.ndc.nasa.gov/genelab/accession/GLDS-350/). The versions described in this paper are the first"
+    }
+  ]
+}

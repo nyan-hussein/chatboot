@@ -1,0 +1,50 @@
+{
+  "id": "20",
+  "metadata": {
+    "id": 20,
+    "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6985101/",
+    "pmc_id": "PMC6985101"
+  },
+  "chunks": [
+    {
+      "chunk_id": "20_chunk1",
+      "text": "Afshin"
+    },
+    {
+      "chunk_id": "20_chunk2",
+      "text": "Beheshti,"
+    },
+    {
+      "chunk_id": "20_chunk3",
+      "text": "Email:"
+    },
+    {
+      "chunk_id": "20_chunk4",
+      "text": "afshin.beheshti@nasa.gov."
+    },
+    {
+      "chunk_id": "20_chunk5",
+      "text": "Sylvain"
+    },
+    {
+      "chunk_id": "20_chunk6",
+      "text": "V."
+    },
+    {
+      "chunk_id": "20_chunk7",
+      "text": "Costes,"
+    },
+    {
+      "chunk_id": "20_chunk8",
+      "text": "Email:"
+    },
+    {
+      "chunk_id": "20_chunk9",
+      "text": "sylvain.v.costes@nasa.gov"
+    },
+    {
+      "chunk_id": "20_chunk10",
+      "text": ""
+    }
+  ]
+}

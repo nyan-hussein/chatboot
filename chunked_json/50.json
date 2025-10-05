@@ -1,0 +1,50 @@
+{
+  "id": "50",
+  "metadata": {
+    "id": 50,
+    "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4896697/",
+    "pmc_id": "PMC4896697"
+  },
+  "chunks": [
+    {
+      "chunk_id": "50_chunk1",
+      "text": "The authors declare"
+    },
+    {
+      "chunk_id": "50_chunk2",
+      "text": "no conflict of"
+    },
+    {
+      "chunk_id": "50_chunk3",
+      "text": "interest. Data deposition:"
+    },
+    {
+      "chunk_id": "50_chunk4",
+      "text": "Additional data, methods,"
+    },
+    {
+      "chunk_id": "50_chunk5",
+      "text": "and results of"
+    },
+    {
+      "chunk_id": "50_chunk6",
+      "text": "our new analyses,"
+    },
+    {
+      "chunk_id": "50_chunk7",
+      "text": "and more detailed"
+    },
+    {
+      "chunk_id": "50_chunk8",
+      "text": "responses to letters"
+    },
+    {
+      "chunk_id": "50_chunk9",
+      "text": "(2, 3), are"
+    },
+    {
+      "chunk_id": "50_chunk10",
+      "text": "available at https://github.com/Hd-tg-genome/PNAS_response."
+    }
+  ]
+}

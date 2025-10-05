@@ -1,0 +1,50 @@
+{
+  "id": "146",
+  "metadata": {
+    "id": 146,
+    "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5470433/",
+    "pmc_id": "PMC5470433"
+  },
+  "chunks": [
+    {
+      "chunk_id": "146_chunk1",
+      "text": "In this article we report the identification of T-DNA (transfer DNA) insertion sites within two different gene regions in the genome of an Arabidopsis mutant line, SALK_084889. The T-DNA positions are in the 3′ UTR (untranslated region) of DREB2A (Dehydration-responsive element-binding protein 2A) (AT5G05410) and promoter of LOX1 (Lipoxygenase 1) (AT1G55020) as determined by DNA-PCR and sanger sequencing. The expression levels of DREB2A and LOX1 were also analyzed using quantitative realtime PCR (qPCR) in SALK_084889 and wild type Arabidopsis (Col, Columbia). Further, the comparison of drought and heat tolerance between Col and SALK_084889 were conducted by stress treatments. The present data indicate that in SALK_084889, the expression of DREB2A is not downregulated under normal growth conditions but can"
+    },
+    {
+      "chunk_id": "146_chunk2",
+      "text": "be affected only in roots under drought treatment, while LOX1 is significantly downregulated in both roots and shoots under all tested conditions. These data are original and have not been published elsewhere. Keywords: Arabidopsis, DREB2A, LOX1, SALK_084889, T-DNA Keywords: Arabidopsis, DREB2A, LOX1, SALK_084889, T-DNA The dataset of this article provides information on T-DNA insertions in SALK_084889. Fig. 1 shows the T-DNA bands amplified within DREB2A (AT5G05410) and LOX1 (AT1G55020) genes of SALK_084889 as well as T-DNA insertion sites determined by Sanger sequencing. Fig. 2A–B show DREB2A expression in both roots and shoots in normal conditions with or without drought treatment. Fig. 2C–D show LOX1 expression in roots and shoots in normal conditions. Fig. 3, Fig. 4 show the"
+    },
+    {
+      "chunk_id": "146_chunk3",
+      "text": "comparison of survival rates between Col and SALK_084889 plants in drought and heat treatments. Table 1 shows the sequences of primers used in experiments for Fig. 1, Fig. 2. T-DNA insertion in 3′ UTR of DREB2A (AT5G05410) and promoter of LOX1 (AT1G55020) in SALK_084889. (A) Gene structure of DREB2A. The T-DNA position is in +1264 bp after transcription start site. (B) PCR amplification of wild type allele band using forward (F) and reverse (R) gene specific primers DREB2A-F and DREB2A-R (F-R) as well as T-DNA band using LBb1.3 and DREB2A-R (LBb-R). One Col wild-type seedling and eight randomly selected SALK_084889 seedlings were used. (C) Gene structure of LOX1. The T-DNA position is in −4 bp before transcription start"
+    },
+    {
+      "chunk_id": "146_chunk4",
+      "text": "site. (D) DNA-PCR of wild type allele band using gene specific primers LOX1-F and LOX1-R (F-R) as well as T-DNA band using LBb1.3 and LOX1-R (LBb-R). All primers are listed in Table 1. The SEQ files of sanger sequencing are shown in Supplementary material. Relative expression levels of DREB2A and LOX1. The expression of DREB2A was determined in roots (A) and shoots (B) of Col or SALK_084889 plants with or without drought treatments. The expression of LOX1 was determined in roots (C) and shoots (D) of Col or SALK_084889 plants in normal condition. The expression levels of DREB2A or LOX1 in Col in normal conditions were initiated as “1” so that relative expression levels of other samples were"
+    },
+    {
+      "chunk_id": "146_chunk5",
+      "text": "determined. The UBQ11 (AT4G05050) gene was used as the internal control. The Ct (cycle threshold) values are shown in Supplementary table 1. Data are means±SE (n=3). The student׳s t-test was performed to show the significant difference of gene expression between Col and SALK_084889 (* p<0.05, ** p<0.01). Drought tolerance of SALK_084889. (A) Phenotype of Col or SALK_084889 plants after drought treatment followed by recovery. (B) Survival rate of Col or SALK_084889 plants treated by drought. The number of survived plants are shown in Supplementary table 2. Data are means±SD (n=3). The student׳s t-test was performed to show the significant difference of survival rate between Col and SALK_084889 (** p<0.01). Heat tolerance of SALK_084889. (A) Phenotype of Col or"
+    },
+    {
+      "chunk_id": "146_chunk6",
+      "text": "SALK_084889 plants after heat treatment followed by recovery. (B) Survival rate of Col or SALK_084889 plants treated by heat. The number of survived plants are shown in Supplementary table 2. Data are means±SD (n=3). The student׳s t-test was performed to show the significant difference of survival rate between Col and SALK_084889 (** p<0.01). Primers used for the presented data. Primers used for the presented data. Arabidopsis seeds of wild tyoe (Col) and SALK_084889 were obtained from Arabidopsis Biological Resource Center. SALK_084889 was reported as a T-DNA insertion line of DREB2A (AT5G05410) gene [1]. For identification of T-DNA insertion sites, Col and SALK_084889 seeds were grown in soil at 22 °C under constant light condition. Eight randomly selected SALK_084889"
+    },
+    {
+      "chunk_id": "146_chunk7",
+      "text": "seedlings were subjected to DNA-PCR to confirm all seeds are homozygous. For DREB2A, the gene specific primers DREB2A-F and DREB2A-R were used to amplify wild type allele band while LBb1.3 and DREB2A-R primers were used to amplify T-DNA band. For LOX1, the gene specific primers LOX1-F and LOX1-R were used to amplify wild type allele band while LBb1.3 and LOX1-R primers were used to amplify T-DNA band. The amplicons of T-DNA bands of DREB2A and LOX1 were purified by subjected to sanger sequencing and the alignment of sequences was performed using Vector NTI v10.0 program (InforMax Inc). For Expression analysis, Col and SALK_084889 seeds were grown in 0.5× MS media (2.2 g of MS basal salts (Sigma), 5"
+    },
+    {
+      "chunk_id": "146_chunk8",
+      "text": "g of Sucrose, 0.5 g of MES, and 1 mL of 1,000× Gamborg vitamins (Sigma) per liter at pH 5.75) at 22 °C under constant light condition. The 14 day old plants were harvested from MS plates and directly preserved in RNALater (Ambion) [2]. For drought treatment, harvested Arabidopsis plants were dehydrated on Whatman 3mm paper (Whatman) at 22 °C and 60% humidity under dim light for 2 h [3] prior to fixation in RNALater. For RNA extraction, root and shoot tissues were dissected in RNALater solution and then total RNA was isolated using the Qiagen RNAeasy kit (Qiagen). Quantitative realtime PCR was performed using Fast SYBR Green Master Mix (Thermo Fisher) and 2-ΔΔCt method was employed to"
+    },
+    {
+      "chunk_id": "146_chunk9",
+      "text": "calculate the relative expression levels of DREB2A and LOX1. Three replicates were used for each sample and UBQ11 (AT4G05050) gene was used as the internal control. For drought and heat tolerance determination of SALK_084889, Col and SALK_084889 seeds were grown in soil at 22 °C under constant light condition. For drought test, the 10 day old plants were transferred to pre-dried soil and withhold water for 4 days prior to recovery by watering for 7 days [4]. For heat test, the 7 day old plants were pre-incubated in 37 °C for 1 h and then treated at 49 °C for 1 h prior to recovery in 22 °C for 2 days [5]. Survival rates and phenotypes of Col"
+    },
+    {
+      "chunk_id": "146_chunk10",
+      "text": "and SALK_084889 plants were recorded. Student׳s t-test was used for statistical analysis. The authors thank the support from members of the UF Space Plants Lab. This work was funded by NASA Space Life and Physical Sciences Grants NNX13AM46G and NNA04CC61G awarded to RJF and ALP managed through Kennedy Space Center. Transparency data associated with this article can be found in the online version at 10.1016/j.dib.2017.05.047. Supplementary data associated with this article can be found in the online version at 10.1016/j.dib.2017.05.047. Anna-Lisa Paul, Email: alp@ufl.edu. Robert J. Ferl, Email: robferl@ufl.edu. Supplementary material . Supplementary material Supplementary material . Supplementary material This section collects any data citations, data availability statements, or supplementary materials included in this article. Supplementary material Supplementary"
+    }
+  ]
+}

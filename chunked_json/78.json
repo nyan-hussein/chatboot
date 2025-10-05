@@ -1,0 +1,50 @@
+{
+  "id": "78",
+  "metadata": {
+    "id": 78,
+    "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5116466/",
+    "pmc_id": "PMC5116466"
+  },
+  "chunks": [
+    {
+      "chunk_id": "78_chunk1",
+      "text": "All of our microarray data has been deposited in"
+    },
+    {
+      "chunk_id": "78_chunk2",
+      "text": "the Gene Expression Omnibus (http://www.ncbi.nlm.nih.gov/geo) with the accession number"
+    },
+    {
+      "chunk_id": "78_chunk3",
+      "text": "[GSE61484]. The authors apologize for this oversight. This does"
+    },
+    {
+      "chunk_id": "78_chunk4",
+      "text": "not affect the scientific conclusions of the article in"
+    },
+    {
+      "chunk_id": "78_chunk5",
+      "text": "any way. The authors declare that the research was"
+    },
+    {
+      "chunk_id": "78_chunk6",
+      "text": "conducted in the absence of any commercial or financial"
+    },
+    {
+      "chunk_id": "78_chunk7",
+      "text": "relationships that could be construed as a potential conflict"
+    },
+    {
+      "chunk_id": "78_chunk8",
+      "text": "of interest. The authors declare that the research was"
+    },
+    {
+      "chunk_id": "78_chunk9",
+      "text": "conducted in the absence of any commercial or financial"
+    },
+    {
+      "chunk_id": "78_chunk10",
+      "text": "relationships that could be construed as a potential conflict"
+    }
+  ]
+}

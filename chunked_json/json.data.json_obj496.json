@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_id": "json.data.json_obj496_chunk1",
+    "text": "We report here the draft genome sequences of four strains isolated from spacecraft-associated surfaces exhibiting increased resistance to stressors such as UV radiation and exposure to H2O2. The draft genomes of strains 1P01SCT, FO-92T, 50v1, and 2P01AA had sizes of 5,500,894 bp, 4,699,376 bp, 3,174,402 bp, and 4,328,804 bp, respectively. Bacillus horneckiae strain 1P01SCT was isolated from a spacecraft assembly clean room at Kennedy"
+  },
+  {
+    "chunk_id": "json.data.json_obj496_chunk2",
+    "text": "Space Center (KSC), where the Phoenix spacecraft was assembled (1). As previously reported, spores of this strain were resistant to UV254 radiation up to 1,000 J m−2. Bacillus nealsonii FO-92T was isolated from fall-out particles collected from a spacecraft assembly facility at the Jet Propulsion Laboratory (2). Spores of FO-92T have exhibited resistances to UV254 up to 300 J m−2, and vegetative cells and"
+  },
+  {
+    "chunk_id": "json.data.json_obj496_chunk3",
+    "text": "spores of this organism were resistant in up to 5% liquid H2O2 (2). Acinetobacter radioresistens 50v1 was isolated from the surface of the Mars Odyssey orbiter (3). Vegetative cells of this organism were capable of surviving a combination of stressors, including desiccation, up to 1,000 J of UV254 radiation, and up to 0.33 mg/ml of H2O2 (3). Acinetobacter proteolyticus strain 2P01AA was isolated from"
+  },
+  {
+    "chunk_id": "json.data.json_obj496_chunk4",
+    "text": "the Payload Hazardous Servicing Facility at KSC during the assembly of the Phoenix spacecraft (4). As reported previously, strain 2P01AA exhibited increased resistance to H2O2 exposure and survival in up to 320 mM H2O2 (5). Here, we report the first draft genome sequences of B. horneckiae type strain 1P01SC, B. nealsonii type strain FO-92, and two Acinetobacter species strains, 50v1, and 2P01AA, isolated from"
+  },
+  {
+    "chunk_id": "json.data.json_obj496_chunk5",
+    "text": "spacecraft hardware and associated surfaces. Strains 1P01SCT, FO-92T, 50v1, and 2P01AA, were sequenced using a shotgun sequencing approach on the Illumina HiSeq paired-end platform. The reads were de novo assembled using CLC Genomics Workbench version 10.1.1, resulting in total genome sizes of 5,500,894 bp, 4,699,376 bp, 3,174,402 bp, and 4,328,804 bp, respectively. Genome statistics are given in Table 1 for all the strains. Annotations"
+  },
+  {
+    "chunk_id": "json.data.json_obj496_chunk6",
+    "text": "were produced using both the Rapid Annotations using Subsystems Technology server (6) and the NCBI Prokaryotic Genome Annotation Pipeline (7, 8) and visualized using the SEED viewer (9). Genome statistics of four microbial strains isolated from spacecraft hardware and associated surfaces The Bacillus strains 1P01SCT and FO-92T had 103 and 99 putative genes coding for dormancy and sporulation, respectively. Both strains had MutS, RecA,"
+  },
+  {
+    "chunk_id": "json.data.json_obj496_chunk7",
+    "text": "MutL, excinuclease ABC, beta-lactamase, and genes coding for the formation of persister cells (10). Strain FO-92T had a prophage-associated DNA repair protein (RecT), six genes associated with spore DNA protection, exodeoxyribonuclease III, and a peroxide stress regulator (PerR). Strain 1P01SCT had cold shock proteins (CspD and CspA) and a heat-inducible transcriptional repressor (HrcA). Acinetobacter strains 50v1 and 2P01AA possessed putative genes coding for persister"
+  },
+  {
+    "chunk_id": "json.data.json_obj496_chunk8",
+    "text": "cell formation, heat shock and cold shock responses, superoxide dismutase, rubredoxin-NAD(+) reductase, and cobalt, zinc, cadmium, and arsenic resistance (11). Strain 2P01AA had putative genes coding for heme oxygenase (HemO) and four genes coding for quorum-sensing molecules, which initiate biofilm biosynthesis and adhesion (12). Strain 50v1 had genes associated with betaine and choline uptake, which further allow for increased water retention in the cells"
+  },
+  {
+    "chunk_id": "json.data.json_obj496_chunk9",
+    "text": "(13), as well as alkyl hydroperoxide reductase subunit C and a DNA-binding protein (Dps), which has been shown to protect organisms from oxidative stress (14). The genome sequences of all four isolates have been deposited at DDBL/EMBL/GenBank under the accession numbers listed in Table 1. Genome statistics of four microbial strains isolated from spacecraft hardware and associated surfaces The genome sequences of all four"
+  },
+  {
+    "chunk_id": "json.data.json_obj496_chunk10",
+    "text": "isolates have been deposited at DDBL/EMBL/GenBank under the accession numbers listed in Table 1. The research described in this publication was carried out at the Jet Propulsion Laboratory, California Institute of Technology, under a contract with the National Aeronautics and Space Administration. Citation Seuylemezian A, Vaishampayan P, Cooper K, Venkateswaran K. 2018. Draft genome sequences of Acinetobacter and Bacillus strains isolated from spacecraft-associated surfaces."
+  }
+]

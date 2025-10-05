@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_id": "json.data.json_obj490_chunk1",
+    "text": "The draft genome sequences of 20 biosafety level 2 (BSL-2) opportunistic pathogens isolated from the environmental surfaces of the International Space Station (ISS) were presented. These genomic sequences will help in understanding the influence of microgravity on the pathogenicity and virulence of these strains when compared with Earth strains. In an on-going Microbial Observatory experiment on the International Space Station (ISS), multiple biosafety level 2 (BSL-2) bacterial isolates were isolated, identified, and"
+  },
+  {
+    "chunk_id": "json.data.json_obj490_chunk2",
+    "text": "whole-genome sequences (WGS) were generated. The genomic data enables the determination of the microgravity influence on pathogenicity and virulence in these microorganisms by comparison to type strains of the corresponding species. Acinetobacter pittii is a nonmotile coccobacilli isolated for the first time from cerebrospinal fluid (1). Multiple strains of A. pitti were isolated from the cupola area. The IIF1SW-P1 was resistant to cefazolin, cefoxitin, oxacillin, penicillin, and rifampin. Two multidrug-resistant Enterobacter sp."
+  },
+  {
+    "chunk_id": "json.data.json_obj490_chunk3",
+    "text": "isolates were found in the waste and hygiene compartment (WHC) location. Species of Enterobacter cloacae complex (Ecc) are commonly found in the environment, but are of high clinical significance (2). Pantoea conspicua was originally isolated from human blood (3). This was the second most prevalent species, and was only found in one location during two different flight samplings. P. conspicua isolates were resistant to erythromycin, oxacillin, penicillin, and rifampin. Staphylococcus isolates were"
+  },
+  {
+    "chunk_id": "json.data.json_obj490_chunk4",
+    "text": "the most prevalent from ISS surfaces. Staphylococcus aureus was the most abundant in all ISS locations. Although this species is a common human commensal (4), it causes various types of minor skin infections, bacteremia, or scalded skin syndrome, especially in immunocompromised individuals (5). In this study, some of the isolates were found to be resistant to erythromycin (IF4SW-P1, IF7SW-P3) and most of the isolates were resistant to penicillin. A few isolates acquired"
+  },
+  {
+    "chunk_id": "json.data.json_obj490_chunk5",
+    "text": "rifampin resistance during the study (RA isolates). Staphylococcus haemolyticus and Staphylococcus hominis belong to coagulase-negative staphylococci (6, 7). S. hominis IIF4SC-B9 was resistant to penicillin and erythromycin, but S. haemolyticus IIF2SW-P5 was susceptible to these antibiotics. All three species are reported to be methicillin resistant by acquiring the staphylococcal cassette chromosome mec (SCCmec) (8), but the methicillin-resistant phenotype was not observed. In this study, the draft genomes sequences of 20 strains from"
+  },
+  {
+    "chunk_id": "json.data.json_obj490_chunk6",
+    "text": "the ISS were obtained. WGS sequencing was performed on an Illumina NextSeq instrument with a paired-end module. The A5 assembly pipeline version 20150522 was used to generate draft assemblies applying the default parameter settings (9) and annotated with the help of the Rapid Annotations using Subsystems Technology (RAST) (10). Table 1 summarizes assembly statistics (number of contigs, total genome size, N50 size, median coverage, G+C percentage, error corrected reads used for assembly,"
+  },
+  {
+    "chunk_id": "json.data.json_obj490_chunk7",
+    "text": "and number of coding sequences). The raw reads were in the range of 24 to 82 Mbp per genome. The G+C content was in the range of 31.5 to 38.7% for Staphylococcus species and A. pittii; for other strains the G+C contents were 55.2 to 55.8%. The subsystem features created using RAST for all 20 strains are depicted in Table 1. Statistics summary for the 20 draft ISS BSL-2 bacterial genome sequences"
+  },
+  {
+    "chunk_id": "json.data.json_obj490_chunk8",
+    "text": "WHC, waste and hygiene compartment. PMM port 1, permanent multipurpose module. The WGS data were deposited at DDBL/EMBL/GenBank under the accession no. listed in Table 1 and at the NASA GeneLab system (GLDS-67; https://genelab-data.ndc.nasa.gov/genelab/accession/GLDS-67/##). The version described in this paper is the first version. The strains were deposited in the USDA Agricultural Research Station (NRRL) and German culture collections. Statistics summary for the 20 draft ISS BSL-2 bacterial genome sequences WHC, waste"
+  },
+  {
+    "chunk_id": "json.data.json_obj490_chunk9",
+    "text": "and hygiene compartment. PMM port 1, permanent multipurpose module. The WGS data were deposited at DDBL/EMBL/GenBank under the accession no. listed in Table 1 and at the NASA GeneLab system (GLDS-67; https://genelab-data.ndc.nasa.gov/genelab/accession/GLDS-67/##). The version described in this paper is the first version. The strains were deposited in the USDA Agricultural Research Station (NRRL) and German culture collections. We thank the implementation team (lead by Fathi Karouia) of the Microbial Observatory (Microbial Tracking)"
+  },
+  {
+    "chunk_id": "json.data.json_obj490_chunk10",
+    "text": "project at NASA Ames Research Center. Part of the research described in this publication was carried out at the Jet Propulsion Laboratory, California Institute of Technology, and at the Lawrence Livermore National laboratory, under a contract with NASA. Citation Checinska Sielaff A, Singh NK, Allen JE, Thissen J, Jaing C, Venkateswaran K. 2016. Draft genome sequences of biosafety level 2 opportunistic pathogens isolated from the environmental surfaces of the International Space Station."
+  }
+]

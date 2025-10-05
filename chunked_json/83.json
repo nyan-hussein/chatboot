@@ -1,0 +1,50 @@
+{
+  "id": "83",
+  "metadata": {
+    "id": 83,
+    "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11271499/",
+    "pmc_id": "PMC11271499"
+  },
+  "chunks": [
+    {
+      "chunk_id": "83_chunk1",
+      "text": "Spending time in a microgravity environment is known to cause significant skeletal muscle atrophy and weakness via muscle unloading, which can be partly attributed to Ca2+ dysregulation. The sarco(endo)plasmic reticulum Ca2+ ATPase (SERCA) pump is responsible for bringing Ca2+ from the cytosol into its storage site, the sarcoplasmic reticulum (SR), at the expense of ATP. We have recently demonstrated that, in the soleus of space-flown mice, the Ca2+ uptake ability of the SERCA pump is severely impaired and this may be attributed to increases in reactive oxygen/nitrogen species (RONS), to which SERCA is highly susceptible. The purpose of this study was therefore to investigate whether treatment with the antioxidant, Manganese(III) meso-tetrakis(N-n-butoxyethylpyridinium-2-yl)porphyrin, MnTnBuOE-2-PyP5+ (BuOE), could attenuate muscle atrophy and SERCA dysfunction. We received soleus muscles"
+    },
+    {
+      "chunk_id": "83_chunk2",
+      "text": "from the rodent research 18 mission which had male mice housed on the international space station for 35 days and treated with either saline or BuOE. Spaceflight significantly reduced the soleus:body mass ratio and significantly increased SERCA’s ionophore ratio, a measure of SR Ca2+ leak, and 4-HNE content (marker of RONS), none of which could be rescued by BuOE treatment. In conclusion, we find that spaceflight induces significant soleus muscle atrophy and SR Ca2+ leak that cannot be counteracted with BuOE treatment. Future work should investigate alternative therapeutics that are specifically aimed at increasing SERCA activation or reducing Ca2+ leak. Subject terms: Calcium channels, Physiology Subject terms: Calcium channels, Physiology Soleus muscles were obtained from the NASA Biological Institutional Scientific Collection. Muscles came from"
+    },
+    {
+      "chunk_id": "83_chunk3",
+      "text": "male C57BL/6 J mice from the RR-18 mission which had two control groups, ground control (GC) and vivarium (VIV) control, as well as a flight group which had mice housed on the International Space Station for 35 days as previously described5,45,80–83. All mice were treated weekly with either BuOE (1 mg/kg) or saline via subcutaneous injection beginning one week prior to launch and continuing for the duration of spaceflight. Upon live return to Earth, soleus muscles were dissected and stored in RNALater at −80 °C. Muscles were thawed, rinsed from RNALater, and homogenized in homogenizing buffer prior to further analysis5. SERCA ATPase activity was assessed using an enzyme-linked spectrophotometric assay as previously described19. Full SERCA ATPase-pCa curves were run in the presence of ionophore"
+    },
+    {
+      "chunk_id": "83_chunk4",
+      "text": "as well as in the absence of ionophore specifically at maximal stimulating Ca2+ concentrations (pCa = 5.0) to gain a measure of SR Ca2+ leak and permeability as previously described34–36. The Ca2+ ionophore, A23187 induces SR membrane permeability, which encourages maximal SERCA activity by preventing back inhibition. Thus, if the SR membrane is inherently ‘leaky’ then the calculated ionophore ratio (maximal SERCA activity in the presence of ionophore: maximal SERCA activity in the absence of ionophore) will be relatively smaller. Western blotting was performed on muscle homogenate to assess protein content for SERCA1a, SERCA2a, total and phosphorylated content of the Ca2+ release protein ryanodine receptor (RYR1/2), 4-hydroxynonenal (4-HNE) as a marker of oxidative stress, SOD, and the three SERCA regulators, sarcolipin (SLN), neuronatin (NNAT),"
+    },
+    {
+      "chunk_id": "83_chunk5",
+      "text": "and phospholamban (PLN) as previously described5,19. Specific methods for the aforementioned proteins are listed in Supplemental Table 1. All data are presented as means ± standard error of the mean (SEM). No statistical differences were detected between the GC and VIV groups and so they were combined within their respective treatment groups to increase statistical power. A two-way ANOVA with Tukey’s post hoc test was used to compare the main effects of GC/VIV vs flight and saline vs BuOE as well as any interaction that may exist. Statistical significance was set at p ≤ 0.05 and outliers were detected and removed prior to analysis if they were ±2 standard deviations from the mean of their respective group. All statistical tests were employed using GraphPad"
+    },
+    {
+      "chunk_id": "83_chunk6",
+      "text": "Prism 9. p-values are presented above graphs. Soleus muscles were obtained from the NASA Biological Institutional Scientific Collection. Muscles came from male C57BL/6 J mice from the RR-18 mission which had two control groups, ground control (GC) and vivarium (VIV) control, as well as a flight group which had mice housed on the International Space Station for 35 days as previously described5,45,80–83. All mice were treated weekly with either BuOE (1 mg/kg) or saline via subcutaneous injection beginning one week prior to launch and continuing for the duration of spaceflight. Upon live return to Earth, soleus muscles were dissected and stored in RNALater at −80 °C. Muscles were thawed, rinsed from RNALater, and homogenized in homogenizing buffer prior to further analysis5. SERCA ATPase activity"
+    },
+    {
+      "chunk_id": "83_chunk7",
+      "text": "was assessed using an enzyme-linked spectrophotometric assay as previously described19. Full SERCA ATPase-pCa curves were run in the presence of ionophore as well as in the absence of ionophore specifically at maximal stimulating Ca2+ concentrations (pCa = 5.0) to gain a measure of SR Ca2+ leak and permeability as previously described34–36. The Ca2+ ionophore, A23187 induces SR membrane permeability, which encourages maximal SERCA activity by preventing back inhibition. Thus, if the SR membrane is inherently ‘leaky’ then the calculated ionophore ratio (maximal SERCA activity in the presence of ionophore: maximal SERCA activity in the absence of ionophore) will be relatively smaller. Western blotting was performed on muscle homogenate to assess protein content for SERCA1a, SERCA2a, total and phosphorylated content of the Ca2+ release protein"
+    },
+    {
+      "chunk_id": "83_chunk8",
+      "text": "ryanodine receptor (RYR1/2), 4-hydroxynonenal (4-HNE) as a marker of oxidative stress, SOD, and the three SERCA regulators, sarcolipin (SLN), neuronatin (NNAT), and phospholamban (PLN) as previously described5,19. Specific methods for the aforementioned proteins are listed in Supplemental Table 1. All data are presented as means ± standard error of the mean (SEM). No statistical differences were detected between the GC and VIV groups and so they were combined within their respective treatment groups to increase statistical power. A two-way ANOVA with Tukey’s post hoc test was used to compare the main effects of GC/VIV vs flight and saline vs BuOE as well as any interaction that may exist. Statistical significance was set at p ≤ 0.05 and outliers were detected and removed prior to"
+    },
+    {
+      "chunk_id": "83_chunk9",
+      "text": "analysis if they were ±2 standard deviations from the mean of their respective group. All statistical tests were employed using GraphPad Prism 9. p-values are presented above graphs. We thank the NASA Life Sciences Data Archive Institutional Scientific Collection Biospecimen Sharing Program for the provision of samples and the NASA Ames Research Center team who worked on the RR-18 mission. This work was supported by a CIHR CGS-D award to J.L.B., a CRC Tier 2 Award, a Canadian Space Agency Grant, as well as an NSERC Discovery Grant to V.A.F. Conceptualization, J.L.B. and V.A.F.; methodology, J.L.B. and V.A.F.; validation, J.L.B. and V.A.F.; formal analysis, J.L.B. and V.A.F.; investigation, J.L.B.; resources, V.A.F.; data curation, J.L.B.; writing – original draft preparation, J.L.B.; writing – review and"
+    },
+    {
+      "chunk_id": "83_chunk10",
+      "text": "editing, J.L.B. and V.A.F.; visualization, J.L.B. and V.A.F.; supervision, V.A.F.; project administration, V.A.F.; funding acquisition, V.A.F. All authors have read and agreed to the published version of the manuscript. The data that support this study are available at the NASA Open Science Data Repository (10.26030/mx0n-ta73). The authors declare no competing interests. Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. The online version contains supplementary material available at 10.1038/s41526-024-00419-y. This section collects any data citations, data availability statements, or supplementary materials included in this article. The data that support this study are available at the NASA Open Science Data Repository (10.26030/mx0n-ta73). The data that support this study are available at the NASA Open Science Data Repository"
+    }
+  ]
+}

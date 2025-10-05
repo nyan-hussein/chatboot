@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_id": "json.data.json_obj461_chunk1",
+    "text": "Sixteen-week-old female C57BL/6J mice were sacrificed aboard the International Space Station after 37 days of flight (RR-1 mission) and frozen carcasses returned to Earth. RNA was isolated from interscapular brown adipose tissue (BAT) and gonadal white adipose tissue (WAT). Spaceflight resulted in differential expression of genes in BAT consistent with increased non-shivering thermogenesis and differential expression of genes in WAT consistent with increased glucose uptake and metabolism, adipogenesis, and β-oxidation. Subject terms: Biochemistry, Molecular biology Subject terms: Biochemistry, Molecular biology Gene array showing fold changes for differentially expressed genes"
+  },
+  {
+    "chunk_id": "json.data.json_obj461_chunk2",
+    "text": "in interscapular brown adipose tissue (BAT) in mice sacrificed aboard the International Space Station after 37 days of flight (RR-1 mission) compared to ground controls. aThis gene’s average relative expression is low in control (Ct > 30) and reasonable in flight sample (Ct < 30). bThis gene’s relative expression level is low in both control and flight samples (Ct > 30). Gene array showing fold changes for differentially expressed genes in gonadal white adipose tissue (WAT) in mice sacrificed aboard the International Space Station after 37 days of flight"
+  },
+  {
+    "chunk_id": "json.data.json_obj461_chunk3",
+    "text": "(RR-1 mission) compared to ground controls. aThis gene’s average relative expression is low in control (Ct < 30) and reasonable in flight sample (Ct < 30). bThis gene’s relative expression level is low in both control and flight samples (Ct > 30). Details of the spaceflight mission are published25. Animal protocol was reviewed and approved by the NASA Institutional Animal Care and Use Committee prior to the conduct of experiments. In brief, 16-week-old female B6 mice were sacrificed aboard the ISS after 37 days of flight and frozen carcasses"
+  },
+  {
+    "chunk_id": "json.data.json_obj461_chunk4",
+    "text": "were returned to Earth for tissue preparation and method validation as described21. Sensors in the Habitats (flight and ground) monitored and relayed information including component temperature and humidity. The data were logged at sampling rate of 1 Hz. Ground control mice were sacrificed and processed using the same timelines and protocols as the flight animals. RNA was isolated from individual BAT (n = 8/group) and WAT (n = 6/group) samples. RNA integrity number (RIN) was assessed using an Agilent Bioanalyzer (Santa Clara, CA, USA). A RIN value of 5"
+  },
+  {
+    "chunk_id": "json.data.json_obj461_chunk5",
+    "text": "and above is required to ensure reliable quantification of gene expression by RT-qPCR26,27. The RIN numbers (mean ± SE, n = 6/group) for RNA isolated from BAT from flight and ground control animals were 6.55 ± 0.47, and 7.42 ± 0.46, respectively. Thus RNA from both groups of animals were of good quality. mRNA was reverse transcribed into cDNA using SuperScript III First-Strand Synthesis SuperMix for qRT-PCR (ThermoFisher Scientific). Expression levels for genes related to adipogenesis was determined for BAT and WAT using the Mouse Adipogenesis RT2 Profiler PCR"
+  },
+  {
+    "chunk_id": "json.data.json_obj461_chunk6",
+    "text": "Array (Qiagen). Gene expression was normalized using GusB and ActB housekeeping genes, and relative quantification (ΔΔ Ct method) was determined using RT2 Profiler PCR Array Data Analysis software (Qiagen). Further information on research design is available in the Nature Research Reporting Summary linked to this article. Details of the spaceflight mission are published25. Animal protocol was reviewed and approved by the NASA Institutional Animal Care and Use Committee prior to the conduct of experiments. In brief, 16-week-old female B6 mice were sacrificed aboard the ISS after 37 days of"
+  },
+  {
+    "chunk_id": "json.data.json_obj461_chunk7",
+    "text": "flight and frozen carcasses were returned to Earth for tissue preparation and method validation as described21. Sensors in the Habitats (flight and ground) monitored and relayed information including component temperature and humidity. The data were logged at sampling rate of 1 Hz. Ground control mice were sacrificed and processed using the same timelines and protocols as the flight animals. RNA was isolated from individual BAT (n = 8/group) and WAT (n = 6/group) samples. RNA integrity number (RIN) was assessed using an Agilent Bioanalyzer (Santa Clara, CA, USA). A"
+  },
+  {
+    "chunk_id": "json.data.json_obj461_chunk8",
+    "text": "RIN value of 5 and above is required to ensure reliable quantification of gene expression by RT-qPCR26,27. The RIN numbers (mean ± SE, n = 6/group) for RNA isolated from BAT from flight and ground control animals were 6.55 ± 0.47, and 7.42 ± 0.46, respectively. Thus RNA from both groups of animals were of good quality. mRNA was reverse transcribed into cDNA using SuperScript III First-Strand Synthesis SuperMix for qRT-PCR (ThermoFisher Scientific). Expression levels for genes related to adipogenesis was determined for BAT and WAT using the Mouse"
+  },
+  {
+    "chunk_id": "json.data.json_obj461_chunk9",
+    "text": "Adipogenesis RT2 Profiler PCR Array (Qiagen). Gene expression was normalized using GusB and ActB housekeeping genes, and relative quantification (ΔΔ Ct method) was determined using RT2 Profiler PCR Array Data Analysis software (Qiagen). Further information on research design is available in the Nature Research Reporting Summary linked to this article. This work was supported by NASA (80NSSC19K0430 and NNX15AL15G). C.P.W.: conceptualization, investigation, analysis, writing—review & editing. U.T.I.: conceptualization, writing—review & editing. R.T.T.: conceptualization, funding acquisition, writing—original draft preparation, review & editing. Data are available in Supplemental Table 1 for"
+  },
+  {
+    "chunk_id": "json.data.json_obj461_chunk10",
+    "text": "BAT PCR array and Supplemental Table 2 for WAT PCR array. The authors declare no competing interests. Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. The online version contains supplementary material available at 10.1038/s41526-021-00150-y. This section collects any data citations, data availability statements, or supplementary materials included in this article. Data are available in Supplemental Table 1 for BAT PCR array and Supplemental Table 2 for WAT PCR array. Data are available in Supplemental Table 1 for BAT PCR array"
+  }
+]

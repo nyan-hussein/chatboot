@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_id": "json.data.json_obj493_chunk1",
+    "text": "Following publication of the original article [1], the authors reported"
+  },
+  {
+    "chunk_id": "json.data.json_obj493_chunk2",
+    "text": "that the X-axis label was missing from Fig. 4. The"
+  },
+  {
+    "chunk_id": "json.data.json_obj493_chunk3",
+    "text": "new Fig. 4 is attached. Microbial gene pathways observed in"
+  },
+  {
+    "chunk_id": "json.data.json_obj493_chunk4",
+    "text": "the whole metagenomes of ISS and SAF samples. Reads matching"
+  },
+  {
+    "chunk_id": "json.data.json_obj493_chunk5",
+    "text": "microbial gene targets above an identity threshold of 0.9 were"
+  },
+  {
+    "chunk_id": "json.data.json_obj493_chunk6",
+    "text": "assigned to KEGG orthologies. KO number was used to assign"
+  },
+  {
+    "chunk_id": "json.data.json_obj493_chunk7",
+    "text": "a gene function category, shown along the vertical axis. Read"
+  },
+  {
+    "chunk_id": "json.data.json_obj493_chunk8",
+    "text": "abundance is graphically represented on a square-root scale. Absolute read"
+  },
+  {
+    "chunk_id": "json.data.json_obj493_chunk9",
+    "text": "counts are shown adjacent to each corresponding circle The online"
+  },
+  {
+    "chunk_id": "json.data.json_obj493_chunk10",
+    "text": "version of the original article can be found under doi:10.1186/s40168-017-0292-4"
+  }
+]
